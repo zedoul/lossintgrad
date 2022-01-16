@@ -1,7 +1,7 @@
 #!/bin/bash
 
-/repo/anaconda.sh
-conda init bash
+#/repo/anaconda.sh
+#conda init bash
 source /root/.bashrc
 
 python -m venv env
